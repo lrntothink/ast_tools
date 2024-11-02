@@ -1,7 +1,7 @@
 # ast_tools JS AST还原框架
 
 ## 简介
-ast_tools框架，是我从esprima转向babel后重新开发的一套JS AST还原框架，已经内置了一些常见的混淆还原策略，代码可能略有凌乱。
+ast_tools框架
 
 ## 使用方式
 
